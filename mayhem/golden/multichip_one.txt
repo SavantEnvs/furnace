@@ -1,0 +1,44 @@
+SONG INFORMATION
+- name: 
+- author: 
+- album: 
+- system: Yamaha YMF262 + Irem GA20
+- 16 ins, 0 waves, 9 samples
+<<<
+
+>>>
+
+SUB-SONGS
+=== 0: 
+<<<
+
+>>>
+
+INSTRUMENTS
+- 0: DX7 Electric Piano
+- 1: Bass
+- 2: Music Box
+- 3: Pizzicato
+- 4: Synth Harp
+- 5: Strings
+- 6: Side Stick
+- 7: Mute Triangle e7
+- 8: Bass Drum
+- 9: Open Triangle e7
+- 10: Snare Drum
+- 11: Crash Cymbal
+- 12: Closed Hi-hat
+- 13: Open Hi-hat
+- 14: String Part 2
+- 15: Tom
+
+SAMPLES
+- 0: bd
+- 1: 021_e
+- 2: 063
+- 3: 014
+- 4: 009
+- 5: 064
+- 6: 012
+- 7: 018
+- 8: 017

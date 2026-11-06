@@ -1,0 +1,29 @@
+SONG INFORMATION
+- name: Dark Star (newmod3)
+- author: Zzzax (cover by tildearrow)
+- album: 
+- system: Sega Genesis/Mega Drive
+- 12 ins, 0 waves, 0 samples
+<<<
+
+>>>
+
+SUB-SONGS
+=== 0: 
+<<<
+
+>>>
+
+INSTRUMENTS
+- 0: Ins 0
+- 1: Ins 1
+- 2: Ins 2
+- 3: Ins 3
+- 4: Ins 4
+- 5: Ins 5
+- 6: Ins 6
+- 7: kick
+- 8: Ins 6
+- 9: Ins 9
+- 10: Ins 9
+- 11: Ins 4

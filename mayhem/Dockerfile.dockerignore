@@ -1,0 +1,7 @@
+# Keep local build outputs out of the build context; the image builds them itself.
+build/
+release/
+*.o
+*.a
+.DS_Store
+*.swp

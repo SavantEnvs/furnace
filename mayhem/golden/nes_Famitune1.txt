@@ -1,0 +1,31 @@
+SONG INFORMATION
+- name: FamiTune #1
+- author: Wegfrei
+- album: 
+- system: Famicom with Konami VRC6
+- 8 ins, 0 waves, 4 samples
+<<<
+
+>>>
+
+SUB-SONGS
+=== 0: 
+<<<
+
+>>>
+
+INSTRUMENTS
+- 0: Instrument 0
+- 1: Instrument 1
+- 2: Instrument 2
+- 3: Instrument 3
+- 4: Instrument 4
+- 5: Instrument 5
+- 6: Instrument 1
+- 7: Instrument 7
+
+SAMPLES
+- 0: Crash
+- 1: HiHat
+- 2: Kick
+- 3: Snare

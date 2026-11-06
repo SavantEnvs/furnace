@@ -1,0 +1,31 @@
+SONG INFORMATION
+- name: 
+- author: 
+- album: 
+- system: NEC PC Engine/TurboGrafx-16
+- 14 ins, 4 waves, 0 samples
+<<<
+
+>>>
+
+SUB-SONGS
+=== 0: 
+<<<
+
+>>>
+
+INSTRUMENTS
+- 0: Kick
+- 1: Snare
+- 2: Long Snare
+- 3: Open Hat
+- 4: Riser
+- 5: BEHS
+- 6: BEHS 2
+- 7: Cra
+- 8: Saw-ish
+- 9: Major 7th Arp
+- 10: Minor 7th Arp
+- 11:  Perfect 5th Arp
+- 12: 3rd, 7th and 9th Arp
+- 13: Minor 9th Arp

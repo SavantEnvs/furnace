@@ -1,0 +1,46 @@
+SONG INFORMATION
+- name: Ibiza
+- author: Roostersox
+- album: 
+- system: Amiga
+- 16 ins, 1 waves, 11 samples
+<<<
+
+>>>
+
+SUB-SONGS
+=== 0: 
+<<<
+
+>>>
+
+INSTRUMENTS
+- 0: Oddtom
+- 1: ST7T7S7
+- 2: HHOD6
+- 3: HHCD2
+- 4: CSHD6
+- 5: R8BongoHi
+- 6: R8BongoLo
+- 7: pianolow
+- 8: Chordstab
+- 9: piano
+- 10: gogogo
+- 11: Roostergame_BIOS_tune
+- 12: accidental 3rd
+- 13: Goodbass
+- 14: Goodbass
+- 15: Instrument 15
+
+SAMPLES
+- 0: BTAA0DA
+- 1: ST7T7S7
+- 2: HHOD6
+- 3: HHCD2
+- 4: CSHD6
+- 5: R8BongoHi
+- 6: R8BongoLo
+- 7: pianolow
+- 8: Chordstab
+- 9: piano
+- 10: gogogo
