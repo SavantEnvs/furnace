@@ -1,0 +1,25 @@
+SONG INFORMATION
+- name: quick start guide companion module
+- author: read the quick start guide first!
+- album: Furnace chiptune tracker
+- system: Sega Genesis
+- 1 ins, 0 waves, 1 samples
+<<<
+assembled just for you
+by
+Electric Keet
+
+
+>>>
+
+SUB-SONGS
+=== 0: 
+<<<
+
+>>>
+
+INSTRUMENTS
+- 0: horn
+
+SAMPLES
+- 0: example

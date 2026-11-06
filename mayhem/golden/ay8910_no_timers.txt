@@ -1,0 +1,33 @@
+SONG INFORMATION
+- name: No Time(rs)
+- author: Zaxinoth Digital
+- album: SSG Collection
+- system: 3×AY-3-8910
+- 16 ins, 0 waves, 0 samples
+<<<
+
+>>>
+
+SUB-SONGS
+=== 0: 
+<<<
+
+>>>
+
+INSTRUMENTS
+- 0: Instrument 1
+- 1: kicc
+- 2: sner
+- 3: hhc
+- 4: hho
+- 5: envelope envelope
+- 6: envelope envelope
+- 7: fweee
+- 8: envelope envelope A#3
+- 9: envelope envelope C-4
+- 10: envelope envelope D#4
+- 11: envelope envelope F-4
+- 12: envelope envelope G-4
+- 13: envelope envelope A#4
+- 14: envelope envelope C-5
+- 15: envelope envelope D-5
